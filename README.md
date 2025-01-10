@@ -61,7 +61,8 @@ The code utilizes the following key components:
 🖼️🖼️🖼️
 (Add a photo of your Balance Bot here!)
 
-![Your Balance Bot Image](path/to/your/image.jpg)
+![Balance Bot Image](bot.jpeg)
+![Balance Bot Image](bot2.jpeg)
 
 ## Notes
 📖📖📖
